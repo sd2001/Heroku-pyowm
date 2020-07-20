@@ -1,2 +1,39 @@
 # Heroku-pyowm
-Making a weather forecast webapp using streamlit and deploying it using heroku.
+
+Its **LIVE**
+
+https://streamlit-sd-forecast-app.herokuapp.com/
+
+## Part of Technocolabs Internship Mini Project
+Making a weather forecast webapp using **streamlit** and deploying it using **heroku**.
+
+### To install all the dependencies
+
+```terminal
+pip install -r requirements.txt
+```
+*This installs all the dependencies on your computer using the cmd.*
+
+**Having created a web app on heroku**
+```terminal
+heroku create appname-app
+```
+*Ensure that heroku is added in your Environment variables*
+
+```terminal
+git init(in that folder)
+```
+```terminal
+git add .
+```
+```terminal
+git commit -m "Mssg"
+```
+```terminal
+git push  heroku origin
+```
+**Congrats you have just been able to deploy your web-app successfully**
+Be careful and keep the Procfile and setup.sh as mentioned in the eroku Documentation.
+
+https://devcenter.heroku.com/categories/reference
+
