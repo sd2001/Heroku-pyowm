@@ -24,10 +24,18 @@ heroku create appname-app
 ```
 *Ensure that heroku is added in your Environment variables*
 
+Navigate to the Original Folder
+
+```terminal
+cd Heroku-Files
+```
+
 Initialize a repo:
+
 ```terminal
 git init(in that folder)
 ```
+
 Add the files:
 ```terminal
 git add .
