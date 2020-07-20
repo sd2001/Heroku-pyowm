@@ -23,6 +23,7 @@ pip install -r requirements.txt
 heroku create appname-app
 ```
 *Ensure that heroku is added in your Environment variables*
+
 Initialize a repo:
 ```terminal
 git init(in that folder)
