@@ -42,7 +42,7 @@ git push heroku master
 ```
 **Congrats you have just deployed your web-app successfully**
 
-Be careful and keep the Procfile and setup.sh as mentioned in the eroku Documentation.
+Be careful and keep the Procfile and setup.sh as mentioned in the heroku Documentation.
 
 https://devcenter.heroku.com/categories/reference
 
