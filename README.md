@@ -4,6 +4,10 @@ Its **LIVE**
 
 https://streamlit-sd-forecast-app.herokuapp.com/
 
+![https://github.com/sd2001/Heroku-pyowm/blob/master/hero1.png]
+
+![https://github.com/sd2001/Heroku-pyowm/blob/master/hero2.png]
+
 ## Part of Technocolabs Internship Mini Project
 Making a weather forecast webapp using **streamlit** and deploying it using **heroku**.
 
