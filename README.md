@@ -23,18 +23,21 @@ pip install -r requirements.txt
 heroku create appname-app
 ```
 *Ensure that heroku is added in your Environment variables*
-
+Initialize a repo:
 ```terminal
 git init(in that folder)
 ```
+Add the files:
 ```terminal
 git add .
 ```
+Commit the staged changes:
 ```terminal
 git commit -m "Mssg"
 ```
+Push the files to heroku:
 ```terminal
-git push  heroku origin
+git push heroku master
 ```
 **Congrats you have just deployed your web-app successfully**
 
