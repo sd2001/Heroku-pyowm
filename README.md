@@ -32,7 +32,8 @@ git commit -m "Mssg"
 ```terminal
 git push  heroku origin
 ```
-**Congrats you have just been able to deploy your web-app successfully**
+**Congrats you have just deployed your web-app successfully**
+
 Be careful and keep the Procfile and setup.sh as mentioned in the eroku Documentation.
 
 https://devcenter.heroku.com/categories/reference
