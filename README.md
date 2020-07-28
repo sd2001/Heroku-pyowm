@@ -4,6 +4,7 @@ Its **LIVE**
 
 https://streamlit-sd-forecast-app.herokuapp.com/
 
+![Image 1](https://github.com/sd2001/Heroku-pyowm/blob/master/hero1.png)
 ![Image 2](https://github.com/sd2001/Heroku-pyowm/blob/master/hero2.png)
 
 ## Part of Technocolabs Internship Mini Project
