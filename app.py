@@ -9,6 +9,7 @@ from matplotlib import rcParams
 from pytz import timezone
 from pyowm.utils import timestamps
 
+#depricated key
 weather_api='0833f103dc7c2924da06db624f74565c'
 owm=OWM(weather_api)
 
